@@ -1,4 +1,5 @@
 Original App Design Project - README Template
+
 TIN DOG APP
 Table of Contents
 Overview
@@ -6,6 +7,7 @@ Product Spec
 Wireframes
 Schema
 Overview
+
 Description
 [Description of your app]
 
